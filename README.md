@@ -17,7 +17,7 @@ This project demonstrates AI-assisted, context-aware development.
 - Vibe coding tool (Replit Agent)
 
 ## Screenshot
-![Tetris Game Running](screenshot.2025-12-18 185028)
+![Tetris Game Running](screenshot.png)
 
 ## How to Run
 1. Clone the repository
