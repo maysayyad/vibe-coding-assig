@@ -22,3 +22,14 @@ This project demonstrates AI-assisted, context-aware development.
 ## How to Run
 1. Clone the repository
 2. Open index.html in a browser
+
+## Running the Block Game with Docker
+
+1. Build the Docker image:
+
+```bash
+docker build -t block-game .
+
+docker run -p 8080:80 block-game
+
+
